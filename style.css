@@ -1,0 +1,11 @@
+ html{
+    overflow: auto;
+} 
+.center{
+    text-align: center;
+    background-color: rgb(195, 240, 240);
+    padding: 30px;
+   }
+.profilephoto{
+    border-radius: 90%; 
+}
